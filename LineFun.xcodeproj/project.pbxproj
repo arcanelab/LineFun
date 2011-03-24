@@ -34,7 +34,6 @@
 		E4C2429410CC5C38004149E2 /* freetype.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E4C2429310CC5C38004149E2 /* freetype.a */; };
 		E4C242CD10CC650E004149E2 /* libfmodex.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = E4C242CC10CC650E004149E2 /* libfmodex.dylib */; };
 		E4C246DA10CCAE22004149E2 /* freeimage.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E4C246D910CCAE22004149E2 /* freeimage.a */; };
-		F01F2946133B99E200C4DBB2 /* ofQtVideoSaver.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F01F2944133B99E200C4DBB2 /* ofQtVideoSaver.cpp */; };
 		F0EE4063133168250005ECB2 /* openFrameworks.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F0EE4062133168250005ECB2 /* openFrameworks.a */; };
 		F0EE407E13316D160005ECB2 /* Line.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F0EE407D13316D160005ECB2 /* Line.cpp */; };
 /* End PBXBuildFile section */
@@ -118,8 +117,6 @@
 		E4C2429310CC5C38004149E2 /* freetype.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = freetype.a; path = ../../../libs/freetype/lib/osx/freetype.a; sourceTree = SOURCE_ROOT; };
 		E4C242CC10CC650E004149E2 /* libfmodex.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libfmodex.dylib; path = ../../../libs/fmodex/lib/osx/libfmodex.dylib; sourceTree = SOURCE_ROOT; };
 		E4C246D910CCAE22004149E2 /* freeimage.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = freeimage.a; path = ../../../libs/FreeImage/lib/osx/freeimage.a; sourceTree = SOURCE_ROOT; };
-		F01F2944133B99E200C4DBB2 /* ofQtVideoSaver.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofQtVideoSaver.cpp; sourceTree = "<group>"; };
-		F01F2945133B99E200C4DBB2 /* ofQtVideoSaver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofQtVideoSaver.h; sourceTree = "<group>"; };
 		F0EE4062133168250005ECB2 /* openFrameworks.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = openFrameworks.a; path = /Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/lib/osx/openFrameworks.a; sourceTree = "<absolute>"; };
 		F0EE407C13316D160005ECB2 /* Line.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Line.h; sourceTree = "<group>"; };
 		F0EE407D13316D160005ECB2 /* Line.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Line.cpp; sourceTree = "<group>"; };
@@ -361,8 +358,6 @@
 		E4B69E1C0A3A1BDC003C02F2 /* src */ = {
 			isa = PBXGroup;
 			children = (
-				F01F2944133B99E200C4DBB2 /* ofQtVideoSaver.cpp */,
-				F01F2945133B99E200C4DBB2 /* ofQtVideoSaver.h */,
 				E4B69E1D0A3A1BDC003C02F2 /* main.cpp */,
 				F0EE407C13316D160005ECB2 /* Line.h */,
 				F0EE407D13316D160005ECB2 /* Line.cpp */,
@@ -543,7 +538,6 @@
 				E4B69E200A3A1BDC003C02F2 /* main.cpp in Sources */,
 				E4B69E210A3A1BDC003C02F2 /* testApp.cpp in Sources */,
 				F0EE407E13316D160005ECB2 /* Line.cpp in Sources */,
-				F01F2946133B99E200C4DBB2 /* ofQtVideoSaver.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

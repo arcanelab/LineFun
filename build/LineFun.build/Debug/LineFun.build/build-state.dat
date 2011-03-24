@@ -158,9 +158,9 @@ t1289527237
 s139584
 
 N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
-c000000004C91794F00000000004D2720
-t1284602191
-s5056288
+c000000004D77144E00000000005198C0
+t1299649614
+s5347520
 
 N/System/Library/Frameworks/Carbon.framework/Carbon
 c000000004CDC9FC6000000000000A5F0
@@ -193,14 +193,14 @@ t1284168061
 s1552992
 
 N/System/Library/Frameworks/OpenGL.framework/OpenGL
-c000000004D22BC490000000000043330
-t1294122057
+c000000004D7713DA0000000000043330
+t1299649498
 s275248
 
 N/System/Library/Frameworks/QuickTime.framework/QuickTime
-c000000004CC7AED00000000000783950
-t1288154832
-s7878992
+c000000004D40EADD0000000000783960
+t1296100061
+s7879008
 
 N/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun/../../../libs/FreeImage/lib/osx/freeimage.a
 c000000004CE3AF780000000000AA64B0
@@ -860,9 +860,9 @@ i"ofGstUtils.h"
 i"ofQtUtils.h"
 
 N/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/lib/osx/openFrameworks.a
-c000000004D8222060000000000D41EB8
-t1300374022
-s13901496
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a
 c000000004D8221D10000000000C2AF40
@@ -1196,6 +1196,837 @@ t1289990010
 s4049
 i<windows.h>
 
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/../../../libs/FreeImage/lib/osx/freeimage.a
+c000000004CE3AF780000000000AA64B0
+t1289990008
+s11166896
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/../../../libs/GLee/include/GLee.h
+c000000004CE3AF780000000000090A87
+t1289990008
+s592519
+i<windows.h>
+i<GL/gl.h>
+i<OpenGL/gl.h>
+i<GL/gl.h>
+i<GL/glx.h>
+i<stddef.h>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/../../../libs/GLee/lib/osx/GLee.a
+c000000004CE3AF7800000000000C88C8
+t1289990008
+s821448
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/../../../libs/fmodex/include/fmod.h
+c000000004CE3AF780000000000028E68
+t1289990008
+s167528
+i"fmod_codec.h"
+i"fmod_dsp.h"
+i"fmod_memoryinfo.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/../../../libs/fmodex/include/fmod_errors.h
+c000000004CE3AF780000000000003408
+t1289990008
+s13320
+i"fmod.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/../../../libs/fmodex/lib/osx/libfmodex.dylib
+c000000004CE3AF7800000000001DD8CC
+t1289990008
+s1956044
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/../../../libs/freeimage/include/FreeImage.h
+c000000004CE3AF78000000000000CC1B
+t1289990008
+s52251
+i<wchar.h>
+i<inttypes.h>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/../../../libs/freetype/lib/osx/freetype.a
+c000000004CE3AF7800000000004D82C8
+t1289990008
+s5079752
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/../../../libs/glut/lib/osx/GLUT.framework
+c000000004CE3AF7800000000000000CC
+t1289990008
+s204
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/../../../libs/glut/lib/osx/GLUT.framework/GLUT
+c000000004CE3AF78000000000011A218
+t1289990008
+s1155608
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/../../../libs/poco/lib/osx/CppUnit.a
+c000000004CE3AF7A000000000003ABB0
+t1289990010
+s240560
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/../../../libs/poco/lib/osx/PocoFoundation.a
+c000000004CE3AF7A00000000005A62E8
+t1289990010
+s5923560
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/../../../libs/poco/lib/osx/PocoNet.a
+c000000004CE3AF7A0000000000378278
+t1289990010
+s3637880
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/../../../libs/poco/lib/osx/PocoUtil.a
+c000000004CE3AF7A00000000000FFB80
+t1289990010
+s1047424
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/../../../libs/poco/lib/osx/PocoXML.a
+c000000004CE3AF7A0000000000239BC0
+t1289990010
+s2333632
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/../../../libs/rtAudio/lib/osx/rtAudio.a
+c000000004CE3AF7E00000000000BC8E8
+t1289990014
+s772328
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/bin//LineFun.app
+t1300971832
+s102
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/bin//LineFun.app/Contents/Info.plist
+t1300971832
+s588
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/bin//LineFun.app/Contents/MacOS/LineFun
+t1300971832
+s6092304
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/bin//LineFun.app/Contents/PkgInfo
+t1300971832
+s8
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/bin/LineFun.app/Contents/Frameworks/GLUT.framework
+t1300971832
+s204
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/build/LineFun.build/Debug/LineFun.build/Objects-normal/i386/Line.o
+t2
+s0
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/build/LineFun.build/Debug/LineFun.build/Objects-normal/i386/LineFun
+t1300971832
+s318176
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/build/LineFun.build/Debug/LineFun.build/Objects-normal/i386/LineFun.LinkFileList
+c000000004D8B413800000000000001DA
+t1300971832
+s474
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/build/LineFun.build/Debug/LineFun.build/Objects-normal/i386/main.o
+t1300971832
+s356420
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/build/LineFun.build/Debug/LineFun.build/Objects-normal/i386/ofQtVideoSaver.o
+t2
+s0
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/build/LineFun.build/Debug/LineFun.build/Objects-normal/i386/testApp.o
+t1300971832
+s347032
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/build/LineFun.build/Debug/LineFun.build/Objects-normal/ppc/Line.o
+t2
+s0
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/build/LineFun.build/Debug/LineFun.build/Objects-normal/ppc/LineFun
+t2
+s0
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/build/LineFun.build/Debug/LineFun.build/Objects-normal/ppc/LineFun.LinkFileList
+c000000004D8B413800000000000001D7
+t1300971832
+s471
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/build/LineFun.build/Debug/LineFun.build/Objects-normal/ppc/main.o
+t1300971832
+s360304
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/build/LineFun.build/Debug/LineFun.build/Objects-normal/ppc/ofQtVideoSaver.o
+t2
+s0
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/build/LineFun.build/Debug/LineFun.build/Objects-normal/ppc/testApp.o
+t1300971832
+s350648
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/build/LineFun.build/Debug/LineFun.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+c000000004D8B41380000000000000113
+t1300971832
+s275
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/src/Line.cpp
+c000000004D8B413800000000000000A6
+t1300971832
+s166
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/src/Line.h
+c000000004D8B413800000000000001A3
+t1300971832
+s419
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/src/main.cpp
+c000000004D8B413800000000000001B6
+t1300971832
+s438
+i"ofMain.h"
+i"testApp.h"
+i"ofAppGlutWindow.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/src/ofQtVideoSaver.cpp
+c000000004C0D1AF600000000000044C0
+t1275927286
+s17600
+i"ofQtVideoSaver.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/src/ofQtVideoSaver.h
+c000000004C0D22FA0000000000000BC6
+t1275929338
+s3014
+i"ofConstants.h"
+i"ofQtUtils.h"
+i"ofUtils.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/src/testApp.cpp
+c000000004D8B4138000000000000188C
+t1300971832
+s6284
+i"testApp.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/src/testApp.h
+c000000004D8B413800000000000002B3
+t1300971832
+s691
+i"ofMain.h"
+i"Line.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/fmodex/include/fmod.h
+c000000004CE3AF780000000000028E68
+t1289990008
+s167528
+i"fmod_codec.h"
+i"fmod_dsp.h"
+i"fmod_memoryinfo.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/fmodex/include/fmod_codec.h
+c000000004CE3AF78000000000000334A
+t1289990008
+s13130
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/fmodex/include/fmod_dsp.h
+c000000004CE3AF78000000000000892F
+t1289990008
+s35119
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/fmodex/include/fmod_memoryinfo.h
+c000000004CE3AF780000000000003C95
+t1289990008
+s15509
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/glut/lib/osx/GLUT.framework/Headers/glut.h
+c000000004CE3AF78000000000000578C
+t1289990008
+s22412
+i<windows.h>
+i<AvailabilityMacros.h>
+i<OpenGL/gl.h>
+i<OpenGL/glu.h>
+i<GL/gl.h>
+i<GL/glu.h>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/app/ofAppBaseWindow.h
+c000000004CE3AF780000000000000446
+t1289990008
+s1094
+i"ofTypes.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/app/ofAppGlutWindow.h
+c000000004CE3AF78000000000000066B
+t1289990008
+s1643
+i"ofConstants.h"
+i"ofAppBaseWindow.h"
+i"glut.h"
+i<GLUT/glut.h>
+i<GL/glut.h>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/app/ofAppRunner.h
+c000000004CE3AF78000000000000050D
+t1289990008
+s1293
+i"ofMain.h"
+i"ofBaseApp.h"
+i"ofAppBaseWindow.h"
+i"ofAppGlutWindow.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/app/ofBaseApp.h
+c000000004CE3AF780000000000000376
+t1289990008
+s886
+i"ofTypes.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/communication/ofArduino.h
+c000000004CE3AF780000000000003D3C
+t1289990008
+s15676
+i<list>
+i<vector>
+i<string>
+i<iostream>
+i"ofEvents.h"
+i"ofSerial.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/communication/ofSerial.h
+c000000004CE3AF780000000000000D2E
+t1289990008
+s3374
+i"ofConstants.h"
+i<termios.h>
+i<sys/ioctl.h>
+i<getopt.h>
+i<dirent.h>
+i<winbase.h>
+i<tchar.h>
+i<iostream>
+i<string.h>
+i<setupapi.h>
+i<regstr.h>
+i<winioctl.h>
+i<initguid.h>
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<fcntl.h>
+i<errno.h>
+i<ctype.h>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/events/ofEventUtils.h
+c000000004CE3AF780000000000000AFA
+t1289990008
+s2810
+i"ofConstants.h"
+i"Poco/FIFOEvent.h"
+i"Poco/Delegate.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/events/ofEvents.h
+c000000004CE3AF78000000000000126C
+t1289990008
+s4716
+i"ofConstants.h"
+i"ofUtils.h"
+i"ofEventUtils.h"
+i"ofxEventUtils.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/graphics/ofGraphics.h
+c000000004CE3AF780000000000000D63
+t1289990008
+s3427
+i"ofConstants.h"
+i"ofTypes.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/graphics/ofImage.h
+c000000004CE3AF780000000000000D09
+t1289990008
+s3337
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofGraphics.h"
+i"ofAppRunner.h"
+i"FreeImage.h"
+i"ofUtils.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/graphics/ofTexture.h
+c000000004CE3AF780000000000000C4B
+t1289990008
+s3147
+i"ofConstants.h"
+i"ofGraphics.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/graphics/ofTrueTypeFont.h
+c000000004CE3AF78000000000000087A
+t1289990008
+s2170
+i"ofConstants.h"
+i"ofGraphics.h"
+i"ofUtils.h"
+i"ofTypes.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/ofMain.h
+c000000004CE3AF780000000000000347
+t1289990008
+s839
+i"ofConstants.h"
+i"ofMath.h"
+i"ofUtils.h"
+i"ofTypes.h"
+i"ofSerial.h"
+i"ofArduino.h"
+i"ofTexture.h"
+i"ofTrueTypeFont.h"
+i"ofGraphics.h"
+i"ofImage.h"
+i"ofBaseApp.h"
+i"ofAppRunner.h"
+i"ofSoundStream.h"
+i"ofSoundPlayer.h"
+i"ofVideoGrabber.h"
+i"ofVideoPlayer.h"
+i"ofEvents.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/sound/ofSoundPlayer.h
+c000000004CE3AF7800000000000006C3
+t1289990008
+s1731
+i"ofConstants.h"
+i"fmod.h"
+i"fmod_errors.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/sound/ofSoundStream.h
+c000000004CE3AF780000000000000254
+t1289990008
+s596
+i"ofConstants.h"
+i"ofBaseApp.h"
+i"ofEvents.h"
+i"ofMath.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/utils/ofConstants.h
+c000000004CE3AF780000000000002ACC
+t1289990008
+s10956
+i<TargetConditionals.h>
+i<windows.h>
+i"GLee.h"
+i"glu.h"
+i<unistd.h>
+i"GLee.h"
+i<OpenGL/glu.h>
+i<ApplicationServices/ApplicationServices.h>
+i<unistd.h>
+i"GLee.h"
+i<GL/glu.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<cstdlib>
+i<cstdio>
+i<cstdarg>
+i<cmath>
+i<ctime>
+i<cstdlib>
+i<string>
+i<iostream>
+i<vector>
+i<cstring>
+i<sstream>
+i<iomanip>
+i<fstream>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/utils/ofMath.h
+c000000004CE3AF780000000000000A66
+t1289990008
+s2662
+i"ofConstants.h"
+i"ofTypes.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/utils/ofTypes.h
+c000000004CE3AF780000000000001D5F
+t1289990008
+s7519
+i"ofConstants.h"
+i"ofUtils.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/utils/ofUtils.h
+c000000004CE3AF7800000000000005A4
+t1289990008
+s1444
+i"ofConstants.h"
+i<shellapi.h>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/video/ofGstUtils.h
+c000000004CE3AF780000000000000B55
+t1289990008
+s2901
+i<gst/gst.h>
+i<pthread.h>
+i"ofConstants.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/video/ofQtUtils.h
+c000000004CE3AF7800000000000006CF
+t1289990008
+s1743
+i"ofConstants.h"
+i"ofGraphics.h"
+i<QuickTime/QuickTime.h>
+i<CoreServices/CoreServices.h>
+i<ApplicationServices/ApplicationServices.h>
+i<QTML.h>
+i<FixMath.h>
+i<QuickTimeComponents.h>
+i<TextUtils.h>
+i<MediaHandlers.h>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/video/ofVideoGrabber.h
+c000000004CE3AF780000000000000C9C
+t1289990008
+s3228
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofGraphics.h"
+i"ofTypes.h"
+i"ofQtUtils.h"
+i"videoInput.h"
+i"ofUCUtils.h"
+i"ofGstUtils.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworks/video/ofVideoPlayer.h
+c000000004CE3AF780000000000000C33
+t1289990008
+s3123
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofGstUtils.h"
+i"ofQtUtils.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a
+c000000004D8221D10000000000C2AF40
+t1300373969
+s12758848
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/AbstractDelegate.h
+c000000004CE3AF780000000000000B2E
+t1289990008
+s2862
+i"Poco/Foundation.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/AbstractEvent.h
+c000000004CE3AF780000000000002C6A
+t1289990008
+s11370
+i"Poco/Foundation.h"
+i"Poco/SingletonHolder.h"
+i"Poco/SharedPtr.h"
+i"Poco/ActiveResult.h"
+i"Poco/ActiveMethod.h"
+i"Poco/Mutex.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ActiveMethod.h
+c000000004CE3AF780000000000001C64
+t1289990008
+s7268
+i"Poco/Foundation.h"
+i"Poco/ActiveResult.h"
+i"Poco/ActiveRunnable.h"
+i"Poco/ActiveStarter.h"
+i"Poco/AutoPtr.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ActiveResult.h
+c000000004CE3AF780000000000002E66
+t1289990008
+s11878
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+i"Poco/Event.h"
+i"Poco/RefCountedObject.h"
+i"Poco/Exception.h"
+i<algorithm>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ActiveRunnable.h
+c000000004CE3AF780000000000001785
+t1289990008
+s6021
+i"Poco/Foundation.h"
+i"Poco/ActiveResult.h"
+i"Poco/Runnable.h"
+i"Poco/RefCountedObject.h"
+i"Poco/AutoPtr.h"
+i"Poco/Exception.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ActiveStarter.h
+c000000004CE3AF780000000000000927
+t1289990008
+s2343
+i"Poco/Foundation.h"
+i"Poco/ThreadPool.h"
+i"Poco/ActiveRunnable.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/AutoPtr.h
+c000000004CE3AF780000000000001E0C
+t1289990008
+s7692
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<algorithm>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Bugcheck.h
+c000000004CE3AF7800000000000012FE
+t1289990008
+s4862
+i"Poco/Foundation.h"
+i<string>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/CompareFunctions.h
+c000000004CE3AF7800000000000007EC
+t1289990008
+s2028
+i"Poco/Foundation.h"
+i<functional>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Config.h
+c000000004CE3AF7800000000000008B5
+t1289990008
+s2229
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Delegate.h
+c000000004CE3AF780000000000001802
+t1289990008
+s6146
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/FunctionDelegate.h"
+i"Poco/Expire.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Event.h
+c000000004CE3AF780000000000000E21
+t1289990008
+s3617
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/Event_WIN32.h"
+i"Poco/Event_POSIX.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Event_POSIX.h
+c000000004CE3AF780000000000000A91
+t1289990008
+s2705
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<pthread.h>
+i<errno.h>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Event_WIN32.h
+c000000004CE3AF780000000000000947
+t1289990008
+s2375
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Exception.h
+c000000004CE3AF7800000000000026AC
+t1289990008
+s9900
+i"Poco/Foundation.h"
+i<stdexcept>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Expire.h
+c000000004CE3AF780000000000000CF1
+t1289990008
+s3313
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/Timestamp.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/FIFOEvent.h
+c000000004CE3AF780000000000000AD4
+t1289990008
+s2772
+i"Poco/AbstractEvent.h"
+i"Poco/FIFOStrategy.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/CompareFunctions.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/FIFOStrategy.h
+c000000004CE3AF7800000000000010F3
+t1289990008
+s4339
+i"Poco/NotificationStrategy.h"
+i<map>
+i<list>
+i<memory>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Foundation.h
+c000000004D812CDF000000000000101E
+t1300311263
+s4126
+i"Config.h"
+i"Poco/Platform.h"
+i"Poco/Platform_WIN32.h"
+i"Poco/Platform_VMS.h"
+i"Poco/Platform_POSIX.h"
+i"Poco/Bugcheck.h"
+i"Poco/Types.h"
+i<string>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/FunctionDelegate.h
+c000000004CE3AF7800000000000013CA
+t1289990008
+s5066
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Mutex.h
+c000000004CE3AF780000000000001A61
+t1289990008
+s6753
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/ScopedLock.h"
+i"Poco/Mutex_WIN32.h"
+i"Poco/Mutex_POSIX.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Mutex_POSIX.h
+c000000004CE3AF780000000000000AC3
+t1289990008
+s2755
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<pthread.h>
+i<errno.h>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Mutex_WIN32.h
+c000000004CE3AF780000000000000A07
+t1289990008
+s2567
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/NotificationStrategy.h
+c000000004CE3AF780000000000000A37
+t1289990008
+s2615
+i"Poco/Foundation.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Platform.h
+c000000004CE3AF780000000000001A3A
+t1289990008
+s6714
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Platform_POSIX.h
+c000000004CE3AF780000000000000843
+t1289990008
+s2115
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Platform_VMS.h
+c000000004CE3AF780000000000000BAA
+t1289990008
+s2986
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Platform_WIN32.h
+c000000004CE3AF780000000000000D4D
+t1289990008
+s3405
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/RefCountedObject.h
+c000000004CE3AF780000000000000B10
+t1289990008
+s2832
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Runnable.h
+c000000004CE3AF780000000000000861
+t1289990008
+s2145
+i"Poco/Foundation.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ScopedLock.h
+c000000004CE3AF7800000000000008EB
+t1289990008
+s2283
+i"Poco/Foundation.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/SharedPtr.h
+c000000004CE3AF7800000000000021DE
+t1289990008
+s8670
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/Mutex.h"
+i<algorithm>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/SignalHandler.h
+c000000004CE3AF7800000000000011EB
+t1289990008
+s4587
+i"Poco/Foundation.h"
+i<vector>
+i<setjmp.h>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/SingletonHolder.h
+c000000004CE3AF780000000000000A64
+t1289990008
+s2660
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Thread.h
+c000000004CE3AF780000000000001C3A
+t1289990008
+s7226
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+i"Poco/Thread_WIN32.h"
+i"Poco/Thread_POSIX.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/ThreadPool.h
+c000000004CE3AF780000000000001849
+t1289990008
+s6217
+i"Poco/Foundation.h"
+i"Poco/Thread.h"
+i"Poco/Mutex.h"
+i<vector>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Thread_POSIX.h
+c000000004CE3AF7800000000000012A8
+t1289990008
+s4776
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/SignalHandler.h"
+i"Poco/Event.h"
+i"Poco/RefCountedObject.h"
+i"Poco/AutoPtr.h"
+i<pthread.h>
+i<sys/select.h>
+i<errno.h>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Thread_WIN32.h
+c000000004CE3AF78000000000000106C
+t1289990008
+s4204
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/UnWindows.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Timestamp.h
+c000000004CE3AF7A00000000000019A7
+t1289990010
+s6567
+i"Poco/Foundation.h"
+i<ctime>
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/Types.h
+c000000004CE3AF7A0000000000001910
+t1289990010
+s6416
+i"Poco/Foundation.h"
+
+N/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/libs/poco/include/Poco/UnWindows.h
+c000000004CE3AF7A0000000000000FD1
+t1289990010
+s4049
+i<windows.h>
+
 N/var/folders/js/jskPAtKQGj8EK3cVrwW01++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-brmrydveypvxfuemhpihqaumkxoa/Carbon.h.gch
 t1300311924
 s53765872
@@ -1212,6 +2043,18 @@ N/var/folders/js/jskPAtKQGj8EK3cVrwW01++++TI/-Caches-/com.apple.Xcode.501/Shared
 t2
 s0
 
+N/var/folders/js/jskPAtKQGj8EK3cVrwW01++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-dceojywymrrsisbtiljvdmcwtroy/Carbon.h.gch
+t2
+s0
+
+N/var/folders/js/jskPAtKQGj8EK3cVrwW01++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-dftvlumivvfwpifduitteosfxidh/Carbon.h.gch
+t2
+s0
+
+N/var/folders/js/jskPAtKQGj8EK3cVrwW01++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-dsibnmsasosbpeapwbubahcfbvww/Carbon.h.gch
+t2
+s0
+
 N/var/folders/js/jskPAtKQGj8EK3cVrwW01++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-fbnjvhuekodidfaqtyvaoxmtdtcy/Carbon.h.gch
 t2
 s0
@@ -1221,8 +2064,8 @@ t1300311924
 s50841104
 
 NopenFrameworks-Info.plist
-c000000004D812F58000000000000026A
-t1300311896
+c000000004D8B4138000000000000026A
+t1300971832
 s618
 
 CCheck dependencies
@@ -1230,6 +2073,9 @@ r0
 lSLF07#2@18"Check dependencies322094033#322094033#0(0"0(0#1#0"8629061984#0"0#
 
 CCompileC build/LineFun.build/Debug/LineFun.build/Objects-normal/i386/Line.o "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun2/src/Line.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LineFun.build/Debug/LineFun.build/Objects-normal/i386/Line.o "/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/src/Line.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
 r0
 
 CCompileC build/LineFun.build/Debug/LineFun.build/Objects-normal/i386/main.o "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun/src/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
@@ -1249,6 +2095,12 @@ lSLF07#2@109"Compile /Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL
 CCompileC build/LineFun.build/Debug/LineFun.build/Objects-normal/i386/main.o "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun2/src/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
 r0
 
+CCompileC build/LineFun.build/Debug/LineFun.build/Objects-normal/i386/main.o "/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/src/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LineFun.build/Debug/LineFun.build/Objects-normal/i386/ofQtVideoSaver.o "/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/src/ofQtVideoSaver.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/LineFun.build/Debug/LineFun.build/Objects-normal/i386/testApp.o "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun/src/testApp.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
 s322004724.523788
 e322004726.470299
@@ -1266,7 +2118,13 @@ lSLF07#2@112"Compile /Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL
 CCompileC build/LineFun.build/Debug/LineFun.build/Objects-normal/i386/testApp.o "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun2/src/testApp.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
 r0
 
+CCompileC build/LineFun.build/Debug/LineFun.build/Objects-normal/i386/testApp.o "/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/src/testApp.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/LineFun.build/Debug/LineFun.build/Objects-normal/ppc/Line.o "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun2/src/Line.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LineFun.build/Debug/LineFun.build/Objects-normal/ppc/Line.o "/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/src/Line.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
 r0
 
 CCompileC build/LineFun.build/Debug/LineFun.build/Objects-normal/ppc/main.o "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun/src/main.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
@@ -1286,6 +2144,12 @@ lSLF07#2@109"Compile /Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL
 CCompileC build/LineFun.build/Debug/LineFun.build/Objects-normal/ppc/main.o "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun2/src/main.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
 r0
 
+CCompileC build/LineFun.build/Debug/LineFun.build/Objects-normal/ppc/main.o "/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/src/main.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/LineFun.build/Debug/LineFun.build/Objects-normal/ppc/ofQtVideoSaver.o "/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/src/ofQtVideoSaver.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/LineFun.build/Debug/LineFun.build/Objects-normal/ppc/testApp.o "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun/src/testApp.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
 s322004727.732294
 e322004728.977284
@@ -1303,10 +2167,16 @@ lSLF07#2@112"Compile /Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL
 CCompileC build/LineFun.build/Debug/LineFun.build/Objects-normal/ppc/testApp.o "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun2/src/testApp.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
 r0
 
+CCompileC build/LineFun.build/Debug/LineFun.build/Objects-normal/ppc/testApp.o "/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/src/testApp.cpp" normal ppc c++ com.apple.compilers.gcc.4_2
+r0
+
 CCreateUniversalBinary "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun/bin//LineFun.app/Contents/MacOS/LineFun" normal "i386 ppc"
 r0
 
 CCreateUniversalBinary "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun2/bin//LineFun.app/Contents/MacOS/LineFun" normal "i386 ppc"
+r0
+
+CCreateUniversalBinary "/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/bin//LineFun.app/Contents/MacOS/LineFun" normal "i386 ppc"
 r0
 
 CLd "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun/build/LineFun.build/Debug/LineFun.build/Objects-normal/i386/LineFun" normal i386
@@ -1348,6 +2218,12 @@ r0
 CLd "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun2/build/LineFun.build/Debug/LineFun.build/Objects-normal/ppc/LineFun" normal ppc
 r0
 
+CLd "/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/build/LineFun.build/Debug/LineFun.build/Objects-normal/i386/LineFun" normal i386
+r0
+
+CLd "/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/build/LineFun.build/Debug/LineFun.build/Objects-normal/ppc/LineFun" normal ppc
+r0
+
 CPBXCp bin/LineFun.app/Contents/Frameworks/GLUT.framework ../../../libs/glut/lib/osx/GLUT.framework
 s322004729.742972
 e322004729.937609
@@ -1380,6 +2256,9 @@ lSLF07#2@36"Run custom shell script 'Run Script'322004729#322004729#0(361"cp: /U
 CPhaseScriptExecution "Run Script" "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun2/build/LineFun.build/Debug/LineFun.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh"
 r0
 
+CPhaseScriptExecution "Run Script" "/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/build/LineFun.build/Debug/LineFun.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh"
+r0
+
 CProcessInfoPlistFile "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun/bin//LineFun.app/Contents/Info.plist" openFrameworks-Info.plist
 s322004720.001907
 e322004720.004901
@@ -1390,6 +2269,9 @@ xopenFrameworks-Info.plist
 lSLF07#2@33"Process openFrameworks-Info.plist322004720#322004720#0(0"0(0#0#114"/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun/openFrameworks-Info.plist8606104608#459"    cd "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun"    builtin-infoPlistUtility openFrameworks-Info.plist -genpkginfo "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun/bin//LineFun.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun/bin//LineFun.app/Contents/Info.plist"0#
 
 CProcessInfoPlistFile "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun2/bin//LineFun.app/Contents/Info.plist" openFrameworks-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/bin//LineFun.app/Contents/Info.plist" openFrameworks-Info.plist
 r0
 
 CProcessPCH++ /var/folders/js/jskPAtKQGj8EK3cVrwW01++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-brmrydveypvxfuemhpihqaumkxoa/Carbon.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
@@ -1435,6 +2317,12 @@ lSLF07#2@101"Precompile /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks
 CProcessPCH++ /var/folders/js/jskPAtKQGj8EK3cVrwW01++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-dcdxhukmacufgdghlyevwqalxlpt/Carbon.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal ppc c++ com.apple.compilers.gcc.4_2
 r0
 
+CProcessPCH++ /var/folders/js/jskPAtKQGj8EK3cVrwW01++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-dceojywymrrsisbtiljvdmcwtroy/Carbon.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH++ /var/folders/js/jskPAtKQGj8EK3cVrwW01++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-dftvlumivvfwpifduitteosfxidh/Carbon.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal ppc c++ com.apple.compilers.gcc.4_2
+r0
+
 CProcessPCH++ /var/folders/js/jskPAtKQGj8EK3cVrwW01++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-fbnjvhuekodidfaqtyvaoxmtdtcy/Carbon.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
 r0
 
@@ -1456,5 +2344,8 @@ CTouch "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My 
 r0
 
 CTouch "/Users/zoli/Programming/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFun2/bin//LineFun.app"
+r0
+
+CTouch "/Users/zoli/coding/libraries/of_preRelease_v0062_osxSL_FAT/apps/My Projects/LineFunApp/bin//LineFun.app"
 r0
 
