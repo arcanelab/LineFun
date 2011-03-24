@@ -1,0 +1,12 @@
+=======================================================================
+LineFun - an openframeworks test application by Zoltán Majoros in 2011.
+=======================================================================
+
+Source code and binary for Mac OS X (x86 & PPC) is available.
+
+Keyboard commands:
+------------------
+F - toggle fullscreen
+C - clear screen (sometimes needs to be pressed twice)
+S - save screen shot to ./data (must exist)
+ESC - quit
